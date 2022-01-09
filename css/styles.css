@@ -197,4 +197,8 @@ p {
      #cta > h3 {
          font-size: 2.3rem;
      }
+    
+      .carousel-item > h2 {
+         font-size: 2rem;
+     }
 }
